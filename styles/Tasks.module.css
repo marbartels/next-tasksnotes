@@ -1,0 +1,16 @@
+.tasksBody {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* Actual settings */
+    /* background-position: center;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    min-width: 100vw;
+    background-repeat: no-repeat; */
+}
+
+.link {
+    color: white;
+}
